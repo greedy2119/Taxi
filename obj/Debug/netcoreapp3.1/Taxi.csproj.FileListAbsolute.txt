@@ -1,0 +1,12 @@
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.exe
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.deps.json
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.runtimeconfig.json
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.runtimeconfig.dev.json
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.dll
+C:\Users\Willy\source\repos\Taxi\Taxi\bin\Debug\netcoreapp3.1\Taxi.pdb
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.AssemblyInfoInputs.cache
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.AssemblyInfo.cs
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.dll
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.pdb
+C:\Users\Willy\source\repos\Taxi\Taxi\obj\Debug\netcoreapp3.1\Taxi.genruntimeconfig.cache
